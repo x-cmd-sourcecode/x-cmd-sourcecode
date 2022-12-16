@@ -1,4 +1,4 @@
-name: Sync All X-Bash Repos
+name: Sync Repos
 on:
   workflow_dispatch:
   schedule:
